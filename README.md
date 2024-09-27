@@ -1,0 +1,3 @@
+- 👋 Hi, I’m John Lorezo
+- 👀 I’m interested in girls
+- 🌱 I’m currently learning WebDev
